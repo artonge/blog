@@ -1,4 +1,4 @@
-# Maître de son contenu, maître de sa pensée
+# Maître de son fil d'actualité, maître de sa pensée
 
 ---
 
@@ -10,11 +10,11 @@ Cette chasse à l'engagement produit des effets non anticipés sur le contenu, p
 
 L'affichage prioritaire des ces publications, couplé à l'affichage de publicités ciblées, donnent des outils puissants à ces acteurs. Ceux-ci sont alors capables d'influencer l'opinion publique. On peut donc se poser la question suivante : sommes-nous libres d'avoir une réflexion sur certains sujets lorsque nous ne pouvons pas nous fier aux sources qui devraient nous permettre de nous forger un avis ?
 
-Ces enjeux ne font pas souvent l'objet d'une réflexion, voir d'un blocage quotidien chez la majorité de personnes. Mais chez une petite partie de la population, psychologiquement fragile, les effets peuvent être plus immédiats, plus puissants. Sachant qu'ils risquent leur sécurité psychologique, ils en arrivent à s'abstenir d'utiliser des outils informatiques et donc à se mettre à l'écart. Leur plus grande sensibilité doit agir comme un miroir sur nous-mêmes, nous permettant de nous rendre compte que nous sommes régulièrement sujets à des manipulations.
+Ces enjeux ne font pas souvent l'objet d'une réflexion, ni d'un blocage systématique chez la majorité des personnes. Mais chez certaines parties de la population qui souffrent de difficultés de santé psychologiques ou physiques, les effets peuvent être plus radicaux. Du fait de leurs besoins particuliers de sécurité et le cas échéant de la nécessaire confidentialité de leurs échanges avec les établissements de soins, ces personnes peuvent en arriver à s'abstenir d'utiliser les outils informatiques proposés par les géants du net et ainsi à s’isoler des autres. Cela doit nous aider à prendre conscience des manipulations auxquelles les grandes compagnies du digital nous expose.
 
 ### Comment réduire les sources d'influence ?
 
-Je vous l'avais indiqué [à propos des deepfakes](https://www.flap.cloud/blog/deepfake-influence-tool), tout n'est pas perdu. Les réseaux sociaux ne sont pas l'unique canal d'influence et des alternatives à ceux-ci existent. Utiliser ces derniers permet de limiter l'affichage de publications visant à nous orienter.
+Je vous l'avais indiqué [à propos des deepfakes](https://www.flap.cloud/blog/deepfake-influence-tool), tout n'est pas perdu. Les réseaux sociaux ne sont pas l'unique canal d'influence et des alternatives à ceux-ci existent. Utiliser ces alternatives permet de limiter l'affichage de publications visant à nous orienter.
 
 En commençant par l'ancien, et massivement supporté, protocole RSS. Ce protocole permet de s'abonner aux mises à jours de sites internets, et cela sans avoir à créer de compte sur une tierce plateforme. Supporté par la plupart des blogs tel que Wordpress, mais aussi par certaines plateformes comme Youtube, il est très fréquent de pouvoir suivre les publications ou l'activité d'un site grâce au protocole RSS. Il est, par exemple, possible de suivre directement la plupart des publications des partis politiques, du gouvernement, des médias grand public, et d'organisations tel que l'OMS, une source directe et cruciale d'informations en cette année 2020.
 
@@ -26,7 +26,7 @@ De nouveaux protocoles plus complexes apparaissent, tel qu'Activity Pub. Ce prot
 
 En fonction de l'application choisie, il pourrait être uniquement présenté à l'utilisateur des contenus publiés par les personnes qu'il suit. On pourrait imaginer des applications présentant aussi des contenus connexes ayant reçu beaucoup d'attention de la part d'autres utilisateurs. L'interconnexion entre ces applications permet, à ceux qui les administrent, de proposer différents modèles économiques que celui de la publicité.
 
-Ceci donne donc plus de contrôle à l'utilisateur, qui peut alors décider de l'application qui lui convient le mieux. Dans le cas de notre article, ce serait celle qui lui affiche le moins de contenu ayant pour but de influencer.
+Ceci donne donc plus de contrôle à l'utilisateur, qui peut alors décider de l'application qui lui convient le mieux. Dans le cas de notre article, ce serait celle qui lui affiche le moins de contenu ayant pour but de l'influencer.
 
 ### Un mot sur FLAP
 
