@@ -14,7 +14,7 @@ Ces enjeux ne font pas souvent l'objet d'une réflexion, ni d'un blocage systém
 
 ### Comment réduire les sources d'influence ?
 
-Je vous l'avais indiqué [à propos des deepfakes](https://www.flap.cloud/blog/deepfake-influence-tool), tout n'est pas perdu. Les réseaux sociaux ne sont pas l'unique canal d'influence et des alternatives à ceux-ci existent. Utiliser ces alternatives permet de limiter l'affichage de publications visant à nous orienter.
+Je vous l'avais indiqué [à propos des deepfakes](https://www.flap.cloud/blog/deepfake-influence-tool), tout n'est pas perdu. Des alternatives aux grandes plateformes existent. Bien que les réseaux sociaux ne soient pas l'unique canal d'influence, utiliser ces alternatives permet de limiter l'affichage de publications visant à nous orienter.
 
 En commençant par l'ancien, et massivement supporté, protocole RSS. Ce protocole permet de s'abonner aux mises à jours de sites internets, et cela sans avoir à créer de compte sur une tierce plateforme. Supporté par la plupart des blogs tel que Wordpress, mais aussi par certaines plateformes comme Youtube, il est très fréquent de pouvoir suivre les publications ou l'activité d'un site grâce au protocole RSS. Il est, par exemple, possible de suivre directement la plupart des publications des partis politiques, du gouvernement, des médias grand public, et d'organisations tel que l'OMS, une source directe et cruciale d'informations en cette année 2020.
 
