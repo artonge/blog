@@ -1,4 +1,8 @@
-# S'émanciper grâce à son adresse numérique
+---
+title: "S'émanciper grâce à son adresse numérique"
+date: 2020-06-04
+author: Louis Chemineau
+---
 
 Proche d'une sorte de "darwinisme numérique", les logiciels décentralisés tel que Nextcloud, Mastodon, ou Peertube, ont tous évolué jusqu'à être capables de se connecter à une fédération de services similaires. Derrière cette fonctionnalité, se cache un socle essentiel d'Internet, les noms de domaine.
 

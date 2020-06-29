@@ -1,5 +1,7 @@
-# Pourquoi FLAP est un logiciel libre
-
+---
+title: Pourquoi FLAP est un logiciel libre
+draft: false
+author: Louis Chemineau
 ---
 
 ### Un mot sur FLAP

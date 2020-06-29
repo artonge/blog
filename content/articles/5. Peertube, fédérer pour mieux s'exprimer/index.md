@@ -1,4 +1,8 @@
-# Peertube, fédérer pour mieux s'exprimer.
+---
+title: "Peertube, fédérer pour mieux s'exprimer."
+date: 2020-05-28
+author: Louis Chemineau
+---
 
 [Framasoft](https://framasoft.org), l'une des associations référente dans l'univers des logiciels libres français, est depuis longtemps une porte d'entrée pour découvrir de nombreux services libres. Elle propose, gratuitement, plusieurs dizaines d'alternatives éthiques, permettant aux personnes à l'aise techniquement de profiter facilement de ces logiciels. Depuis quelques temps, Framasoft a décidé de changer son type de contribution au libre, passant d’hébergeur à développeur. Dans cet article, nous allons découvrir l'un de leur projet, [Peertube](https://joinpeertube.org/), alternative à Youtube, dont la raison d’être a plus que jamais de sens, à l'aube de l'application de la loi Avia.
 

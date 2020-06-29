@@ -1,5 +1,7 @@
-# Maître de son fil d'actualité, maître de sa pensée
-
+---
+title: "Maître de son fil d'actualité, maître de sa pensée"
+date: 2020-06-18
+author: Louis Chemineau
 ---
 
 Nos fils d'actualité sont aujourd'hui majoritairement gérés par des algorithmes. Cela signifie que le contenu qui nous est présenté n'est pas simplement affiché dans l'ordre chronologique, mais que certaines publications sont parfois remises en avant afin de nous pousser à y réagir. La réaction des utilisateurs, aussi appelée engagement, est cruciale pour les grandes plateformes, qui voient au travers de cela une bonne manière de vous y faire passer plus de temps. Ce temps supplémentaire leur permet alors de vous montrer plus de contenus publicitaires.

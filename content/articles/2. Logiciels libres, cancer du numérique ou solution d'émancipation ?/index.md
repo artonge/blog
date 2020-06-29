@@ -1,4 +1,8 @@
-# Logiciels libres, cancer du numérique ou solution d'émancipation ?
+---
+title: "Logiciels libres, cancer du numérique ou solution d'émancipation ?"
+date: 2020-05-10
+author: Louis Chemineau
+---
 
 Derrière ce titre accrocheur, se cache une citation de Steve Ballmer, ancien Président de Microsoft, lors d'une interview pour le Chicago Sun-Times en 2001.
 

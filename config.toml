@@ -1,0 +1,6 @@
+baseURL = "https://blog.flap.cloud/"
+languageCode = "fr-fr"
+title = "Blog de FLAP"
+theme = "ananke"
+enableRobotsTXT = true
+copyright = "CC BY-SA"

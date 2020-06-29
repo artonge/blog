@@ -1,5 +1,7 @@
-# Deepfake, de l'annonce publicitaire à la manipulation de masse
-
+---
+title: "Deepfake, de l'annonce publicitaire à la manipulation de masse"
+date: 2020-06-14
+author: Louis Chemineau
 ---
 
 Certaines personnes refusent l'utilisation des plateformes proposées par les géants du numériques. L'une [des problématiques évoquées](https://www.flap.cloud/blog/problematiques-geants-numeriques) est l'affichage constant de publicités. La problématique ne réside pas que dans la "pollution" du fil d'actualité, ni dans la consommation plus importante de la part des utilisateurs, mais plutôt dans la possibilité de sponsoriser certains contenus pour qu'ils soient affichés à certaines personnes. Donnant ainsi le pouvoir de les pousser à réaliser une action, autrement dit, de les manipuler. Cette action peut être à but commercial avec la publicité ciblée, ou de manière plus problématique, politique avec la propagande, elle aussi ciblée. Dernièrement, un nouvel outil pouvant aider ce genre de pratiques est apparu, les deepfakes.
