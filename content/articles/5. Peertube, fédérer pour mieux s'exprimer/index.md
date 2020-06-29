@@ -2,21 +2,27 @@
 title: "Peertube, fédérer pour mieux s'exprimer."
 date: 2020-05-28
 author: Louis Chemineau
+aliases:
+  - /blog/peertube-federate-to-better-communicate
 ---
 
-[Framasoft](https://framasoft.org), l'une des associations référente dans l'univers des logiciels libres français, est depuis longtemps une porte d'entrée pour découvrir de nombreux services libres. Elle propose, gratuitement, plusieurs dizaines d'alternatives éthiques, permettant aux personnes à l'aise techniquement de profiter facilement de ces logiciels. Depuis quelques temps, Framasoft a décidé de changer son type de contribution au libre, passant d’hébergeur à développeur. Dans cet article, nous allons découvrir l'un de leur projet, [Peertube](https://joinpeertube.org/), alternative à Youtube, dont la raison d’être a plus que jamais de sens, à l'aube de l'application de la loi Avia.
+[Framasoft](https://framasoft.org), l'une des associations référente dans l'univers des logiciels libres français, est depuis longtemps une porte d'entrée pour découvrir de nombreux services libres. Elle propose, gratuitement, plusieurs dizaines d'alternatives éthiques, permettant aux personnes à l'aise techniquement de profiter facilement de ces logiciels. Depuis quelques temps, Framasoft a décidé de changer son type de contribution au libre, passant d’hébergeur à développeur. Dans cet article, nous allons découvrir l'un de leur projet, [Peertube](https://joinpeertube.org), alternative à Youtube, dont la raison d’être a plus que jamais de sens, à l'aube de l'application de la loi Avia.
 
-### Peertube
+## Peertube
 
 C'est au travers d'une campagne de financement participatif que Peertube a vu le jour en 2018. Portée par l'association Framasoft, cette campagne est rapidement un succès. Réitéré une seconde fois en 2019, avec le même succès, Framasoft espère actuellement réussir un troisième financement pour une troisième version de Peertube.
 
 Peertube, est une alternative à Youtube, mais l'objectif n'est pas de copier les fonctionnalités de Youtube, ni de recréer une plateforme unique de diffusion de vidéos. Non, l'objectif est de permettre à chacun d'être maître de son propre service de diffusion de vidéos, à la fois en contrôlant les contenus qui y sont publiés, et en contrôlant les fonctionnalités qui y sont inclues.
 
-[Nous avons vu](https://www.flap.cloud/blog/matrix-un-protocole-pour-les-gouverner-tous) l’intérêt et le fonctionnement d'un système de fédération. Peertube utilise le protocole ActivityPub afin de communiquer entre utilisateurs de différentes instances. Par exemple, un utilisateur du serveur `tube-paris.beta.education.fr`, l'instance de l'académie de Paris, peut suivre et interagir avec les vidéos de `thinkerview.video`. Mais le protocole ActivityPub ne s’arrête pas à la publication de vidéos. Il est, de manière générale, un protocole permettant la diffusion de publications sociales de manière décentralisée. Plus concrètement, il est possible de suivre et d'interagir avec les vidéos d'une chaîne Peertube depuis un compte Mastodon, une alternative à Twitter.
+[Nous avons vu]({{< ref "../3. Matrix, un protocole pour les gouverner tous/index.md" >}}) l’intérêt et le fonctionnement d'un système de fédération. Peertube utilise le protocole ActivityPub afin de communiquer entre utilisateurs de différentes instances. Par exemple, un utilisateur du serveur `tube-paris.beta.education.fr`, l'instance de l'académie de Paris, peut suivre et interagir avec les vidéos de `thinkerview.video`. Mais le protocole ActivityPub ne s’arrête pas à la publication de vidéos. Il est, de manière générale, un protocole permettant la diffusion de publications sociales de manière décentralisée. Plus concrètement, il est possible de suivre et d'interagir avec les vidéos d'une chaîne Peertube depuis un compte Mastodon, une alternative à Twitter.
 
 Peertube facilite aussi l'administration d'une instance ayant une grande audience, sans que celle-ci croule sous les coûts de location des serveurs. En effet, avec Youtube, les internautes lisent la vidéo à partir des serveurs de Youtube. Pour Peertube, les spectateurs peuvent échanger entre eux les fichiers vidéos, réduisant la charge sur les serveurs. C'est la technologie paire à paire, ou peer to peer en anglais.
 
-### De la censure automatisée à la modération humaine.
+![Modèle de fédération de Peertube](/peertube-federation-multiplicity.jpg)
+
+> Fédération, CC-By SA LILA
+
+## De la censure automatisée à la modération humaine.
 
 La censure sur les réseaux sociaux est de plus en plus présente. Elle est principalement dûe à deux facteurs.
 
@@ -30,7 +36,7 @@ Un exemple récent est celui du collectif QueerMotion, proposant d'héberger le 
 
 Grâce au protocole ActivityPub et au travail des développeurs de logiciels comme Peertube, il est donc possible pour l'utilisateur de choisir le type de réseau social qu'il souhaite utiliser, micro-blogging, vidéo, image, etc, sans se couper du reste du contenu publié sur les autres réseaux. Il est aussi possible pour l'utilisateur de choisir le serveur et donc l'administrateur auquel il donne le pouvoir de modération sur le contenu qu'il peut voir et publier. L’administrateur pouvant ainsi être l'utilisateur lui-même, lui permettant de conserver ce pouvoir.
 
-### Un mot sur FLAP
+## Un mot sur FLAP
 
 FLAP aide les professionnels et les particuliers à reprendre le contrôle de leurs données.
 Écoute, conseils, mise en place et suivi, FLAP vous accompagne dans vos besoins numériques en administrant, pour vous, des services professionnels et éthiques tel que [Nextcloud](https://nextcloud.com) pour le partage de fichiers, [Matrix](https://matrix.org) et Riot pour la messagerie instantanée, et [Jitsi](https://jitsi.org) pour la visioconférence.
