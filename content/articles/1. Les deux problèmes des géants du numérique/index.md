@@ -2,8 +2,8 @@
 title: "Les deux problèmes des géants du numérique"
 date: 2020-05-04
 author:
-    - Louis Chemineau
-    - Tom Aubrée
+  - Louis Chemineau
+  - Tom Aubrée
 aliases:
   - /blog/problematiques-geants-numeriques
 ---
