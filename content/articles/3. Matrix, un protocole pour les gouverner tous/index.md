@@ -28,16 +28,10 @@ Pour expliquer le concept de fédération, il suffit d'étudier le fonctionnemen
 
 Mais ce n'est pas tout, Matrix souhaite aussi fédérer les différents services existants comme Slack, Telegram et Discord. Ceci permet, par exemple, à un utilisateur de Slack et à un utilisateur de Discord d'être réunis au sein d'une même conversation, tout en restant sur leurs applications respectives.
 
-![Matrix fait le pont entre les différents services de communication.](/bridges_lotsofmatrix)
+{{< figure src="bridges_lotsofmatrix.svg" width="100%" caption="Matrix crée des ponts vers les autres services">}}
 
 En pratique, l’interconnexion avec les fournisseurs de grands services de communication n'est pas simple. Ces derniers ne font pas d'efforts pour aider le projet, il faut donc constamment adapter les ponts entre services pour qu'ils continuent de fonctionner. De plus le chiffrement de bout en bout est presque impossible à mettre en place. Mais fort d'une communauté très productive, l'expérience se fait de plus en plus stable pour les utilisateurs.
 
 [Nous avons vu]({{< ref "../2. Logiciels libres, cancer du numérique ou solution d'émancipation/index.md" >}}) comment les logiciels libres permettaient une émancipations des utilisateurs par rapport aux services qu'ils utilisent. C'est ici un cas concret. Le protocole Matrix, grâce à sont ouverture et sa volonté d'unir plutôt que de fragmenter, permet à chacun de choisir la plateforme de communication qu'il préfère. Bien entendu, les messages que vous échangez avec vos contacts présents sur les autres plateformes seront visibles par ces dernières. Mais vous n'êtes plus retenu par le fameux effet réseau, qui vous pousse à utiliser les services que vos contacts utilisent.
 
-## Un mot sur FLAP
-
-FLAP aide les professionnels et les particuliers à reprendre le contrôle de leurs données.
-Écoute, conseils, mise en place et suivi, FLAP vous accompagne dans vos besoins numériques en administrant, pour vous, des services professionnels et éthiques tel que [Nextcloud](https://nextcloud.com) pour le partage de fichiers, [Matrix](https://matrix.org) et Riot pour la messagerie instantanée, et [Jitsi](https://jitsi.org) pour la visioconférence.
-N'hésitez pas à nous contacter pour plus d'informations !
-
-Louis Chemineau - 14/05/2020
+{{< about >}}

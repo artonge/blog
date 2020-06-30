@@ -1,6 +1,29 @@
 baseURL = "https://blog.flap.cloud/"
-languageCode = "fr-fr"
-title = "Blog de FLAP"
-theme = "ananke"
+languageCode = "fr"
+DefaultContentLanguage = "fr"
+title = "Blog"
+theme = "simple-blog"
 enableRobotsTXT = true
 copyright = "FLAP - CC-BY-SA"
+
+
+[menu]
+  [[menu.main]]
+    identifier = "home"
+    name = "ACCUEIL"
+    pre = "<img class='px-2' src='/logo.svg' class='w100 mw5-ns' width='70'/>"
+    url = "https://www.flap.cloud"
+    weight = -110
+  [[menu.main]]
+    name = "PRIX"
+    url = "https://www.flap.cloud/pricing"
+  [[menu.main]]
+    name = "BLOG"
+    url = "/"
+  [[menu.main]]
+    name = "À PROPOS"
+    url = "https://www.flap.cloud/about"
+
+[params]
+  site_logo = "/logo.svg"
+  description = "FLAP vous aide à comprendre les enjeux qui l'animent."

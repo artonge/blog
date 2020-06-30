@@ -40,10 +40,4 @@ Derrière une simple adresse numérique, peut donc se cacher une myriade de serv
 
 Le fait d’être identifié par un nom de domaine que l'on détient, permet, à l'utilisateur ou à l'organisation, de changer d'hébergeur sans avoir à informer ses contacts d'un changement d'adresse numérique, car celle-ci reste la même. L'utilisateur peut alors s'émanciper lorsqu'il le souhaite de son hébergeur et n'est donc plus dépendant d'une plateforme qu'il ne peut quitter, sous peine de se couper du réseau. Il peut même décider d'héberger, lui-même et chez lui, tous ces services. Une réelle indépendance numérique peut alors se mettre en place, dans laquelle l'utilisateur est maître des logiciels et du matériel qu'il utilise. Cette liberté de mouvement octroie alors à l'utilisateur un certain pouvoir, celui d'être en mesure d'exiger certaines choses de la part des développeurs et des hébergeurs.
 
-## Un mot sur FLAP
-
-FLAP aide les professionnels et les particuliers à reprendre le contrôle de leurs données.
-Écoute, conseils, mise en place et suivi, FLAP vous accompagne dans vos besoins numériques en administrant, pour vous, des services professionnels et éthiques tel que [Nextcloud](https://nextcloud.com) pour le partage de fichiers, [Matrix](https://matrix.org) et Riot pour la messagerie instantanée, et [Jitsi](https://jitsi.org) pour la visioconférence.
-N'hésitez pas à nous contacter pour plus d'informations !
-
-Louis Chemineau - 04/06/2020
+{{< about >}}

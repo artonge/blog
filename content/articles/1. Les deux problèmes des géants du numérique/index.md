@@ -1,7 +1,9 @@
 ---
 title: "Les deux problèmes des géants du numérique"
 date: 2020-05-04
-author: Louis Chemineau & Tom Aubrée
+author:
+    - Louis Chemineau
+    - Tom Aubrée
 aliases:
   - /blog/problematiques-geants-numeriques
 ---
@@ -34,8 +36,4 @@ En tant qu'État, société ou individu, il est important d'avoir à l'esprit le
 
 Nous allons explorer, dans les articles suivants, et au travers de cas concrets, ces projets qui annoncent un futur numérique plus respectueux et collaboratif.
 
-## Un mot sur FLAP
-
-FLAP aide les professionnels et les particuliers à reprendre le contrôle de leurs données.
-Écoute, conseils, mise en place et suivi, FLAP vous accompagne dans vos besoins numériques en administrant, pour vous, des services professionnels et éthiques tel que [Nextcloud](https://nextcloud.com) pour le partage de fichiers, [Matrix](https://matrix.org) et Riot pour la messagerie instantanée, et [Jitsi](https://jitsi.org) pour la visioconférence.
-N'hésitez pas à nous contacter pour plus d'informations !
+{{< about >}}

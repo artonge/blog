@@ -15,7 +15,7 @@ Les deepfakes sont un nouveau genre de montage vidéo. Aidé par une technique d
 
 C'est grâce à cela que cette vidéo du président évoquant FLAP a été réalisée.
 
-> Vidéo FLAP
+{{< video src="deepfake_macron.mp4" type="video/mp4" >}}
 
 Bien que de qualité moyenne, cette vidéo montre qu'il est facile de créer des montages permettant de propager de fausses informations. On peut alors imaginer des trucages, bien plus réalistes tel que celui de l'association Solidarité SIDA, présentant Trump annonçant l'éradication du SIDA.
 
@@ -33,10 +33,4 @@ Mais tout n'est pas perdu, il existe en effet certaines plateformes dont le mod�
 
 Afin de limiter la propagation de fausses informations, l'une des solutions est de ne plus financer les grands réseaux sociaux au travers de notre consommation, mais de financer directement les plateformes que l'on utilise.
 
-## Un mot sur FLAP
-
-FLAP aide les professionnels et les particuliers à reprendre le contrôle de leurs données.
-Écoute, conseils, mise en place et suivi, FLAP vous accompagne dans vos besoins numériques en administrant, pour vous, des services professionnels et éthiques tel que [Nextcloud](https://nextcloud.com) pour le partage de fichiers, [Matrix](https://matrix.org) et Riot pour la messagerie instantanée, et [Jitsi](https://jitsi.org) pour la visioconférence.
-N'hésitez pas à nous contacter pour plus d'informations !
-
-Louis Chemineau - 14/06/2020
+{{< about >}}

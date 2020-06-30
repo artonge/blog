@@ -31,10 +31,4 @@ L'une des raison est la suivante, les éditeurs de logiciel ont besoin de conser
 
 En autorisant le partages des modifications, les logiciels libres abandonnent tout pouvoir sur les utilisateurs, mais leur confèrent surtout le pouvoir de s'émanciper en choisissant, ou même en construisant des alternatives. Nous allons explorer, dans les articles à suivre, et au travers de cas concrets, ces projets qui annoncent un futur numérique plus respectueux et collaboratif.
 
-## Un mot sur FLAP
-
-FLAP aide les professionnels et les particuliers à reprendre le contrôle de leurs données.
-Écoute, conseils, mise en place et suivi, FLAP vous accompagne dans vos besoins numériques en administrant, pour vous, des services professionnels et éthiques tel que [Nextcloud](https://nextcloud.com) pour le partage de fichiers, [Matrix](https://matrix.org) et Riot pour la messagerie instantanée, et [Jitsi](https://jitsi.org) pour la visioconférence.
-N'hésitez pas à nous contacter pour plus d'informations !
-
-Louis Chemineau - 10/05/2020
+{{< about >}}

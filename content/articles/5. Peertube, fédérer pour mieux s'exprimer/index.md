@@ -18,9 +18,7 @@ Peertube, est une alternative à Youtube, mais l'objectif n'est pas de copier le
 
 Peertube facilite aussi l'administration d'une instance ayant une grande audience, sans que celle-ci croule sous les coûts de location des serveurs. En effet, avec Youtube, les internautes lisent la vidéo à partir des serveurs de Youtube. Pour Peertube, les spectateurs peuvent échanger entre eux les fichiers vidéos, réduisant la charge sur les serveurs. C'est la technologie paire à paire, ou peer to peer en anglais.
 
-![Modèle de fédération de Peertube](/peertube-federation-multiplicity.jpg)
-
-> Fédération, CC-By SA LILA
+{{< figure src="peertube-federation-multiplicity.jpg" width="100%" caption="Modèle de fédération de Peertube - CC-By SA LILA">}}
 
 ## De la censure automatisée à la modération humaine.
 
@@ -36,10 +34,4 @@ Un exemple récent est celui du collectif QueerMotion, proposant d'héberger le 
 
 Grâce au protocole ActivityPub et au travail des développeurs de logiciels comme Peertube, il est donc possible pour l'utilisateur de choisir le type de réseau social qu'il souhaite utiliser, micro-blogging, vidéo, image, etc, sans se couper du reste du contenu publié sur les autres réseaux. Il est aussi possible pour l'utilisateur de choisir le serveur et donc l'administrateur auquel il donne le pouvoir de modération sur le contenu qu'il peut voir et publier. L’administrateur pouvant ainsi être l'utilisateur lui-même, lui permettant de conserver ce pouvoir.
 
-## Un mot sur FLAP
-
-FLAP aide les professionnels et les particuliers à reprendre le contrôle de leurs données.
-Écoute, conseils, mise en place et suivi, FLAP vous accompagne dans vos besoins numériques en administrant, pour vous, des services professionnels et éthiques tel que [Nextcloud](https://nextcloud.com) pour le partage de fichiers, [Matrix](https://matrix.org) et Riot pour la messagerie instantanée, et [Jitsi](https://jitsi.org) pour la visioconférence.
-N'hésitez pas à nous contacter pour plus d'informations !
-
-Louis Chemineau - 28/05/2020
+{{< about >}}

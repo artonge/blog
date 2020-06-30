@@ -1,0 +1,8 @@
+<!-- video -->
+<video width="50%" style="margin: 0 25%" controls>
+  <source
+  	{{ with .Get "src" }}src="{{.}}"{{ end }}
+  	{{ with .Get "type"}}type="{{.}}"{{ end }}
+	/>
+</video>
+<!-- video -->
