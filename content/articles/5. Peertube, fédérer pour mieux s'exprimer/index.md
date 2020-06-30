@@ -27,7 +27,7 @@ Peertube, est une alternative à Youtube, mais l'objectif n'est pas de copier le
 
 Peertube facilite aussi l'administration d'une instance ayant une grande audience, sans que celle-ci croule sous les coûts de location des serveurs. En effet, avec Youtube, les internautes lisent la vidéo à partir des serveurs de Youtube. Pour Peertube, les spectateurs peuvent échanger entre eux les fichiers vidéos, réduisant la charge sur les serveurs. C'est la technologie paire à paire, ou peer to peer en anglais.
 
-{{< figure src="peertube-federation-multiplicity.jpg" width="100%" caption="Modèle de fédération de Peertube - CC-By SA LILA">}}
+{{< figure src="/articles/5.-peertube-f%C3%A9d%C3%A9rer-pour-mieux-sexprimer/peertube-federation-multiplicity.jpg" width="100%" caption="Modèle de fédération de Peertube - CC-By SA LILA">}}
 
 ## De la censure automatisée à la modération humaine.
 
