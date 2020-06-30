@@ -1,7 +1,7 @@
 # theme.toml template for a Hugo theme
 # See https://github.com/gohugoio/hugoThemes#themetoml for an example
 
-name = "simple-blog"
+name = "flap-theme"
 license = "MIT"
 licenselink = "https://github.com/10mohi6/hugo-theme-simple-blog/blob/master/LICENSE.md"
 description = "A clean, responsive, minimal, bootstrap, customizable, light, personal, simple blog hugo theme"
@@ -11,5 +11,5 @@ features = ["simple", "blog", "responsive", "minimal", "clean", "light", "person
 min_version = "0.41"
 
 [author]
-  name = "10mohi6"
-  homepage = "https://github.com/10mohi6"
+  name = "artonge"
+  homepage = "https://github.com/artonge"
