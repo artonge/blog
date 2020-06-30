@@ -13,7 +13,11 @@
     />
     <link rel="stylesheet" href="{{ $.Site.BaseURL }}css/bootstrap.css" />
     <link rel="stylesheet" href="{{ $.Site.BaseURL }}css/custom.css" />
-	<link rel="icon" href="logo.svg"/>
+    <link rel="icon" href="logo.svg"/>
+
+    {{- template "_internal/opengraph.html" . -}}
+    {{- template "_internal/schema.html" . -}}
+    {{- template "_internal/twitter_cards.html" . -}}
   </head>
   <body>
     <header class="site-header shadow-sm container-fluid">
