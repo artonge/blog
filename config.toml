@@ -2,7 +2,7 @@ baseURL = "https://blog.flap.cloud/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
 title = "Blog"
-theme = "simple-blog"
+theme = "flap-theme"
 enableRobotsTXT = true
 copyright = "FLAP - CC-BY-SA"
 
