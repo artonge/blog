@@ -11,7 +11,7 @@ copyright = "FLAP - CC-BY-SA"
   [[menu.main]]
     identifier = "home"
     name = "ACCUEIL"
-    pre = "<img class='px-2' src='/logo.svg' class='w100 mw5-ns' width='70'/>"
+    pre = "<img class='px-2' src='/logo.png' class='w100 mw5-ns' width='70'/>"
     url = "https://www.flap.cloud"
     weight = -110
   [[menu.main]]
@@ -25,5 +25,5 @@ copyright = "FLAP - CC-BY-SA"
     url = "https://www.flap.cloud/about"
 
 [params]
-  site_logo = "/logo.svg"
+  site_logo = "/logo.png"
   description = "FLAP vous aide à comprendre les enjeux qui l'animent."
