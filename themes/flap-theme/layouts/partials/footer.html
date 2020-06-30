@@ -1,6 +1,6 @@
 <footer class="site-footer p-5 bg-dark text-light" role="contentinfo">
     <div class="d-flex justify-content-between">
-        @ {{ .Site.Copyright }}
+        &copy; {{ .Site.Copyright }} {{ now.Format "2006"}}
 
         <div>{{ partial "social-follow" . }}</div>
     </div>
