@@ -2,8 +2,17 @@
 title: "L'éducation nationale libère la connaissance en choisissant Nextcloud."
 date: 2020-05-22
 author: Louis Chemineau
-aliases:
-  - /blog/educ-nat-nextcloud
+tags:
+  - Protocole
+  - Nextcloud
+  - Logiciels libres
+  - Émancipation
+  - Éducation nationale
+  - Numérique
+  - Alternatives
+  - Souveraineté
+  - Fédération
+  - Collaboration
 ---
 
 Afin d'accompagner les professeurs de collèges et lycées dans leur enseignement à distance, le rectorat a récemment mis en place de nouveaux logiciels libres à leur disposition. Nous allons nous attarder sur l'un d'eux, Nextcloud, en développant quelques fonctionnalités clés qui vont accompagner les enseignants, et les raisons derrière le choix d'une solution libre et non d'une solution propriétaire comme Google Drive ou Dropbox.

@@ -2,8 +2,17 @@
 title: "Matrix un protocole pour les gouverner tous ?"
 date: 2020-05-14
 author: Louis Chemineau
-aliases:
-  - /blog/matrix-un-protocole-pour-les-gouverner-tous
+tags:
+  - Protocole
+  - Matrix
+  - Logiciels libres
+  - Open source
+  - Émancipation
+  - Numérique
+  - Alternatives
+  - Souveraineté
+  - Fédération
+  - Whatsapp
 ---
 
 > ...et dans la lumière les lier.
