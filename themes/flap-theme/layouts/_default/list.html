@@ -8,6 +8,12 @@
             <div class="row justify-content-center">
                 <div class="col-lg-8 col-xl-7">
                     <h1 class="display-4 my-5 my-lg-6 pb-lg-4 text-center">{{ if not .IsHome }}{{ .Title }}{{ else }}{{ .Site.Title }}{{ end }}</h1>
+
+                    {{ with .Site.Params.description }}
+                    <h3 class="my-5 my-lg-6 pb-lg-4 text-center">
+                        {{ . }}
+                    </h3>
+                    {{ end }}
                 </div>
             </div>
         </div>
@@ -29,7 +35,7 @@
                                 <p>
                                     {{ range .Params.tags }}
                                     <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/" class="link-tag text-dark">#{{ . }}</a>
-                                    {{ end }}                              
+                                    {{ end }}
                                 </p>
                             </div>
                         </div>
@@ -42,7 +48,7 @@
                         <li class="page-item {{ if eq $paginator.PageNumber .PageNumber }}active{{ end }}">
                           <a class="page-link" href="{{ .URL }}">{{.PageNumber}}</a>
                         </li>
-                        {{ end }}              
+                        {{ end }}
                     </ul>
                 </nav>
             </div>
