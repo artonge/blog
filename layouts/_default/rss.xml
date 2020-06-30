@@ -36,8 +36,10 @@
       {{ with .Site.Author.email }}<author>{{.}}{{ with $.Site.Author.name }} ({{.}}){{end}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Summary | html }}</description>
-            <content:encoded><![CDATA[
-                {{ .Content  }}
+            <content:encoded>
+            
+            {{ "<![CDATA[" | safeHTML }}
+                {{ .Content | safeHTML }}
             ]]></content:encoded>
         </item>
         {{ end }}
