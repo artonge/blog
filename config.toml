@@ -6,7 +6,6 @@ theme = "flap-theme"
 enableRobotsTXT = true
 copyright = "FLAP - CC-BY-SA"
 
-
 [menu]
   [[menu.main]]
     identifier = "home"

@@ -37,7 +37,7 @@ Pour expliquer le concept de fédération, il suffit d'étudier le fonctionnemen
 
 Mais ce n'est pas tout, Matrix souhaite aussi fédérer les différents services existants comme Slack, Telegram et Discord. Ceci permet, par exemple, à un utilisateur de Slack et à un utilisateur de Discord d'être réunis au sein d'une même conversation, tout en restant sur leurs applications respectives.
 
-{{< figure src="/articles/3.-matrix-un-protocole-pour-les-gouverner-tous/bridges_lotsofmatrix.svg" width="100%" caption="Matrix crée des ponts vers les autres services">}}
+{{< figure src="bridges_lotsofmatrix.svg" width="100%" caption="Matrix crée des ponts vers les autres services">}}
 
 En pratique, l’interconnexion avec les fournisseurs de grands services de communication n'est pas simple. Ces derniers ne font pas d'efforts pour aider le projet, il faut donc constamment adapter les ponts entre services pour qu'ils continuent de fonctionner. De plus le chiffrement de bout en bout est presque impossible à mettre en place. Mais fort d'une communauté très productive, l'expérience se fait de plus en plus stable pour les utilisateurs.
 
