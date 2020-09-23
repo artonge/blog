@@ -36,7 +36,7 @@ Ci-dessous, un tableau listant plusieurs protocoles, les fonctionnalités qu'ils
 | Protocole       | Fonctionnalité               | Application            |
 | --------------- | ---------------------------- | ---------------------- |
 | Email           | Envoie de messages           | Client mail quelconque |
-| Matrix          | Communication instantanée    | Riot                   |
+| Matrix          | Communication instantanée    | Element                |
 | Open Cloud Mesh | Partage de fichiers          | Nextcloud              |
 | ActivityPub     | Blogging                     | Write.as               |
 | ActivityPub     | Microblogging                | Mastodon               |
