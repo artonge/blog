@@ -15,7 +15,7 @@ copyright = "FLAP - CC-BY-SA"
     weight = -110
   [[menu.main]]
     name = "PRIX"
-    url = "https://www.flap.cloud/pricing"
+    url = "https://www.flap.cloud/pricings"
   [[menu.main]]
     name = "BLOG"
     url = "/"
