@@ -9,18 +9,18 @@ copyright = "FLAP - CC-BY-SA"
 [menu]
   [[menu.main]]
     identifier = "home"
-    name = "ACCUEIL"
+    name = "Accueil"
     pre = "<img class='px-2' src='/logo.svg' class='w100 mw5-ns' width='70'/>"
     url = "https://www.flap.cloud"
     weight = -110
   [[menu.main]]
-    name = "PRIX"
+    name = "Prix"
     url = "https://www.flap.cloud/pricings"
   [[menu.main]]
-    name = "BLOG"
+    name = "Blog"
     url = "/"
   [[menu.main]]
-    name = "À PROPOS"
+    name = "À propos"
     url = "https://www.flap.cloud/about"
 
 [params]
