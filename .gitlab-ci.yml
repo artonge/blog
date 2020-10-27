@@ -5,10 +5,10 @@ variables:
   HUGO_ENV: production
 
 pages:
-  script:
-    - hugo
+  only:
+    - master
   artifacts:
     paths:
       - public
-  only:
-    - master
+  script:
+    - hugo --minify && gzip -k -6 $(find public -type f)
