@@ -28,5 +28,5 @@ copyright = "FLAP - CC-BY-SA"
   description = "FLAP vous aide à comprendre les enjeux qui l'animent."
   images = ["logo_padding.png"]
   linkedin = "https://www.linkedin.com/company/flap-cloud"
-  gitlab = "gitlab.com/flap-box/flap"
+  gitlab = "https://gitlab.com/flap-box/flap"
   rss = "https://blog.flap.cloud/index.xml"
