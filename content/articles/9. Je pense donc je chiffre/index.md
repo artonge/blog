@@ -2,7 +2,6 @@
 title: "Je pense donc je chiffre"
 date: 2020-11-09
 author: Louis Chemineau
-draft: true
 tags:
   - Chiffrement
   - Terrorisme
