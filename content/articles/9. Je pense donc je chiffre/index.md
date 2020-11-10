@@ -7,6 +7,12 @@ tags:
   - Terrorisme
   - Surveillance
   - Vie privée
+  - Surveillance
+  - Europe
+  - Loi
+  - Sécurité
+  - Pirate
+  - NSA
 ---
 
 Le chiffrement de données est une nouvelle fois remise en question, cette fois-ci par [une nouvelle proposition de loi](https://www.statewatch.org/media/1434/eu-council-draft-declaration-against-encryption-12143-20.pdf) du Conseil de l'Union européenne.
