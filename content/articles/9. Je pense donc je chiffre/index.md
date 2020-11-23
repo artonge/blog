@@ -7,7 +7,6 @@ tags:
   - Terrorisme
   - Surveillance
   - Vie privée
-  - Surveillance
   - Europe
   - Loi
   - Sécurité
