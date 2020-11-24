@@ -10,7 +10,7 @@
     rel="stylesheet" />
   <link rel="stylesheet" href="{{ $.Site.BaseURL }}css/bootstrap.css" />
   <link rel="stylesheet" href="{{ $.Site.BaseURL }}css/custom.css" />
-  <link rel="icon" href="logo.svg" />
+  <link rel="icon" href="logo.png" />
 
   {{ range .AlternativeOutputFormats -}}
   {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
