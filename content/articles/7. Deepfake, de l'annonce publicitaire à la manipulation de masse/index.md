@@ -2,7 +2,7 @@
 title: "Deepfake, de l'annonce publicitaire à la manipulation de masse"
 date: 2020-06-14
 author: Louis Chemineau
-videos: [deepfake_macron.mp4]
+videos: ["articles/7.-deepfake-de-lannonce-publicitaire-%C3%A0-la-manipulation-de-masse/deepfake_macron.mp4"]
 tags:
   - Deepfake
   - Manipulation de masse
