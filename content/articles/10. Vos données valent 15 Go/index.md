@@ -29,11 +29,11 @@ Google n'est pas seul dans ce cas. D'autres entreprises proposent des services g
 
 ## Dumping de service numérique ?
 
-Comme indiqué, la problématique ne réside pas dans le fait de faire payer pour un service, mais dans le fait de réaliser un dumping de service numérique. Cette pratique leur permet de tuer la concurrence sur un marché en transformant des consommateurs qui payent, en utilisateurs qui ne payent pas. Une fois la concurrence disparue, ils effectuent la transformation inverse, d'utilisateurs à consommateurs.
+Comme indiqué, la problématique ne réside pas dans le fait de faire payer pour un service, mais dans le fait de réaliser un dumping de leur services numérique, alors même qu'ils sont en position dominante. Cette pratique leur permet de tuer la concurrence sur un marché en transformant des consommateurs qui payent, en utilisateurs qui ne payent pas. Une fois la concurrence disparue, ils effectuent la transformation inverse, d'utilisateurs à consommateurs.
 
 Sous couvert de proposer gratuitement des services en échange des données des utilisateurs, Google réalise une réelle guerre économique afin de conserver son hégémonie sur le marché numérique.
 
-Dans le marché numérique défini par les économies d'échelle et la nécessité d'atteindre une masse critique d'utilisateurs avant rentabilité, l'apparition d'acteurs concurrentiels devient très compliquée. Sur le long terme, les consommateurs sont donc lésés car la concurrence est faible voir inexistante, et les prix sont alors fixés par le détenteur du monopole.
+Dans le marché numérique défini par les économies d'échelle et la nécessité d'atteindre une masse critique d'utilisateurs avant rentabilité, l'apparition de nouveaux acteurs concurrentiels devient compliquée. Sur le long terme, les consommateurs sont donc lésés car la concurrence est faible voir inexistante, et les prix sont alors fixés par le détenteur du monopole.
 
 Ce genre d'atteintes à la concurrence ne sont pas passées inaperçues pour la Commission européenne. Cette dernière a condamné Google à plusieurs reprises à payer de fortes amendes, pour un montant total de 8,25 milliards d'euros sur les trois dernière années.
 
@@ -41,6 +41,10 @@ Ce genre d'atteintes à la concurrence ne sont pas passées inaperçues pour la 
 - [18 juillet 2018 - 4.34 milliards d'euro - renforcement de la position dominante de Google Search via Android.](https://ec.europa.eu/commission/presscorner/detail/fr/IP_18_4581)
 - [20 mars 2019 - 1.49 milliards d'euro - pratique abusive en matière de publicité en ligne.](https://ec.europa.eu/commission/presscorner/detail/fr/IP_19_1770)
 
-Ces amendes, bien que particulièrement élevées, sont traitées comme un coût de fonctionnement par Google, et ne réparent pas les conséquences des actes délictueux, c'est-à-dire, la création d'un environnement économique stérile. Google conserve alors une position dominante qui lui octroie une croissance forte, lui permettant de rembourser rapidement ces accrocs causés par les amendes.
+Ces amendes, bien que particulièrement élevées, sont traitées comme un coût de fonctionnement par Google, et ne réparent pas les conséquences des actes délictueux, c'est-à-dire, la création d'un environnement économique stérile. Google conserve alors une position dominante qui lui octroie une croissance forte, lui permettant de rembourser rapidement les accrocs causés par ces amendes.
+
+Les entreprises justifient actuellement le faible coût de certains de leurs produits en indiquant ne vendre en réalité qu'un seul et même produit aux fonctionnalités diverses et ayant un fort niveau d'intégration. Ceci leur permet de s'étendre sur des marchés nouvellement créés, en rachètant ou copiant la concurrence, et cela sans se soucier des régulations. Le choix des consommateurs se résume alors à quelques prisons dorées, d'où il est diffile de sortir et parfois impossible de ne pas y entrer car requis par les études, le travail, ou les relations sociales.
+
+Une solution serait de forcer ces géants à rendre leurs produits interoperables, en utilisant des protocoles ouverts tel que [Matrix pour les communications instantannées]({{< ref "../3. Matrix, un protocole pour les gouverner tous/index.md" >}}) ou [ActivityPub pour les réseaux sociaux]({{< ref "../5. Peertube, fédérer pour mieux s'exprimer/index.md" >}}). Ceci [permettrait aux consomateurs de s'emanciper]({{< ref "../6. S'émanciper grâce à son adresse numérique/index.md" >}}) et leur octroierait un réel pouvoir de choix.
 
 {{< about >}}
