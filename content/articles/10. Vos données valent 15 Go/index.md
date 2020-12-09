@@ -2,7 +2,6 @@
 title: "Vos données valent 15 Go"
 date: 2020-12-08
 author: Louis Chemineau
-draft: true
 tags:
     - Dumping
     - Concurrence
