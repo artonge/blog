@@ -4,26 +4,27 @@ DefaultContentLanguage = "fr"
 title = "Blog de FLAP"
 theme = "flap-theme"
 enableRobotsTXT = true
-copyright = "FLAP - CC-BY-SA"
-
-[menu]
-  [[menu.main]]
-    identifier = "home"
-    name = "Accueil"
-	pre = "<img class='px-2' src='https://www.flap.cloud/logo.png' alt='logo' class='w100 mw5-ns' width='70'  height='54'/>"
-    url = "https://www.flap.cloud"
-    weight = -110
-  [[menu.main]]
-    name = "Tarifs"
-    url = "https://www.flap.cloud/pricings"
-  [[menu.main]]
-    name = "Blog"
-    url = "https://blog.flap.cloud"
-  [[menu.main]]
-    name = "À propos"
-    url = "https://www.flap.cloud/about"
+copyright = "CC-BY-SA - FLAP - 2019-"
 
 [params]
-  site_logo = "/logo.png"
-  description = "FLAP vous aide à comprendre les enjeux qui l'animent."
-  images = ["logo_padding.png"]
+	title = "Blog de FLAP"
+	site_logo = "/logo.png"
+	description = "FLAP vous aide à comprendre les enjeux qui l'animent."
+	images = ["logo_padding.png"]
+
+[menu]
+	[[menu.main]]
+		identifier = "home"
+		name = "Accueil"
+		pre = "<img class='px-2' src='https://blog.flap.cloud/logo.png' alt='logo' class='w100 mw5-ns' width='70'  height='54'/>"
+		url = "https://www.flap.cloud"
+		weight = -110
+	[[menu.main]]
+		name = "Tarifs"
+		url = "https://www.flap.cloud/pricings"
+	[[menu.main]]
+		name = "Blog"
+		url = "https://blog.flap.cloud"
+	[[menu.main]]
+		name = "À propos"
+		url = "https://www.flap.cloud/about"
