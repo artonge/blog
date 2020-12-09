@@ -5,10 +5,6 @@
 	color: rgb(33, 37, 41);
 }
 
-.bg-skew-light::before {
-	background-color: #f8f9fa;
-}
-
 .bg-skew::before {
 	content: "";
 	position: absolute;
@@ -19,4 +15,5 @@
 	transform: skewY(-5deg);
 	transform-origin: top left;
 	z-index: -1;
+	background-color: #f8f9fa;
 }
