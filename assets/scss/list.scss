@@ -37,6 +37,7 @@
 				height: min-content;
 				box-shadow: 0 0 0.25rem rgba(0, 0, 0, 0.3) !important;
 				background: white;
+				display: block;
 
 				@media (max-width: 1200px) {
 					width: 90%;
@@ -53,6 +54,14 @@
 					margin: 20px 5%;
 				}
 
+				a:hover {
+					text-decoration: none;
+
+					.article-link-title {
+						text-decoration: underline;
+					}
+				}
+
 				.article-link-title {
 					font-size: 24px !important;
 					color: rgb(33, 37, 41);
@@ -60,18 +69,10 @@
 
 				.article-date {
 					text-transform: uppercase;
-
-					&:hover {
-						text-decoration: none;
-					}
 				}
 
 				.article-summary {
 					text-align: justify;
-
-					&:hover {
-						text-decoration: none;
-					}
 				}
 			}
 		}
