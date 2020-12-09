@@ -1,63 +1,48 @@
-{{ partial "header.html" . }}
-    <main id="main">
-        <div class="container">
-            <div class="row justify-content-center text-center my-5">
-                <div class="">
-                    {{ range .Params.categories }}
-                    <a href="{{ $.Site.BaseURL }}categories/{{ . | urlize }}/" class="d-inline-block link-cta mb-4 text-uppercase">{{ . }}</a>
-                    {{ end }}
-                    <h1 class="mb-4 text-center">{{ .Title }}</h1>
+{{ define "main" }}
+<article class="mt-5">
+	<h1 class="adapted-width">{{ .Title }}</h1>
 
-					{{ with .Params.author }}
-					<p class="tracked">
-						<strong>
-						{{ if reflect.IsSlice . }}
-							{{ delimit . ", " | markdownify }}
-						{{else}}
-							{{ . | markdownify }}
-						{{ end }}
-						</strong>
-					</p>
-					{{ end }}
-					{{/* Hugo uses Go's date formatting is set by example. Here are two formats */}}
-					<time class="f6 mv4 dib tracked" datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
-					  {{- .Date.Format "January 2, 2006" -}}
-					</time>
+	{{ with .Params.author }}
+	<p>
+		<strong>
+		{{ if reflect.IsSlice . }}
+			{{ delimit . ", " | markdownify }}
+		{{else}}
+			{{ . | markdownify }}
+		{{ end }}
+		</strong>
+	</p>
+	{{ end }}
 
+	<time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">
+	  {{- .Date.Format "January 2, 2006" -}}
+	</time>
 
-                </div>
-            </div>
-        </div>
-        <div class="bg-skew bg-skew-light">
-            <div class="container">
-                <div class="row justify-content-center">
-                    <div class="article-content">
-                        <article class="pb-2">
-                            {{ .Content }}
-                            <p class="mt-5 text-center">
-                                {{ with .Params.tags }}
-                                <span class="text-secondary">Tagged: </span>
-                                {{ end }}
-                                {{ range .Params.tags }}
-                                <a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/" class="link-tag text-dark">#{{ . }}</a>
-                                {{ end }}
-                            </p>
-                        </article>
-                        <div class="row pt-5 pb-5">
-                            <div class="col-6 text-left">
-                            {{ with .PrevInSection }}
-                              <a class="text-reset" href="{{ .Permalink }}">&larr; {{ .Title }}</a>
-                            {{ end }}
-                            </div>
-                            <div class="col-6 text-right">
-                            {{ with .NextInSection }}
-                              <a class="text-reset" href="{{ .Permalink }}">{{ .Title }} &rarr;</a>
-                            {{ end }}
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </main>
-{{ partial "footer.html" . }}
+	<div class="mt-5 article-content-container">
+		<div class="adapted-width bg-skew bg-skew-light">
+			{{ .Content }}
+		</div>
+
+		<p class="adapted-width mt-5 pr-5 pl-5 text-center">
+			{{ with .Params.tags }}
+			<span class="text-secondary">Tagged: </span>
+			{{ end }}
+			{{ range .Params.tags }}
+			<a href="{{ $.Site.BaseURL }}tags/{{ . | urlize }}/" class="text-dark">#{{ . }}</a>
+			{{ end }}
+		</p>
+
+		<nav class="mt-5 mb-5">
+			<div class="text-left">
+			{{ with .PrevInSection }}
+				<a class="text-dark" href="{{ .Permalink }}">&larr; {{ .Title }}</a>
+			{{ end }}
+			</div>
+			<div class="text-right">
+			{{ with .NextInSection }}
+				<a class="text-dark" href="{{ .Permalink }}">{{ .Title }} &rarr;</a>
+			{{ end }}
+		</nav>
+	</div>
+</article>
+{{ end }}
