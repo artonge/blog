@@ -22,13 +22,13 @@ Qu'arrivera t'il alors aux données excédentaires ? Google a précisé qu'il se
 
 Afin de bien saisir l'aspect intentionnel de ce changement, il faut souligner que Google, et cela depuis 2016, permet aux utilisateurs d'Android de téléverser de manière automatique et illimitée leurs photos sur Google Photos.
 
-Mais cette manœuvre n'a rien d’exceptionnelle. En 2018, Google a annoncé [une augmentation des ses tarifs](https://www.lemondeinformatique.fr/actualites/lire-google-fait-exploser-les-tarifs-des-api-de-maps-71697.html) pour l'utilisation professionnelle de Google Maps. Pour ne citer qu'un exemple, le lot de 1000 cartes affichées est passé de 0.5€ à 7€, soit une multiplication par 14 du tarif.
+Mais cette manœuvre n'a rien d’exceptionnelle. En 2018, Google a annoncé [une augmentation de ses tarifs](https://www.lemondeinformatique.fr/actualites/lire-google-fait-exploser-les-tarifs-des-api-de-maps-71697.html) pour l'utilisation professionnelle de Google Maps. Pour ne citer qu'un exemple, le lot de 1000 cartes affichées est passé de 0.5€ à 7€, soit une multiplication par 14 du tarif.
 
 Google n'est pas seul dans ce cas. D'autres entreprises proposent des services gratuits ou au prix inférieur à leur coût de revient dans le but de monopoliser un marché. Twitter a, par exemple, mis [plus de 10 ans avant de dégager des bénéfices](https://www.lesechos.fr/tech-medias/hightech/twitter-degage-le-premier-benefice-annuel-de-son-histoire-962678).
 
 ## Dumping de service numérique ?
 
-Comme indiqué, la problématique ne réside pas dans le fait de faire payer pour un service, mais dans le fait de réaliser un dumping de leur services numérique, alors même qu'ils sont en position dominante. Cette pratique leur permet de tuer la concurrence sur un marché en transformant des consommateurs qui payent, en utilisateurs qui ne payent pas. Une fois la concurrence disparue, ils effectuent la transformation inverse, d'utilisateurs à consommateurs.
+Comme indiqué, la problématique ne réside pas dans le fait de faire payer pour un service, mais dans le fait de réaliser un dumping de leur services numériques, alors même qu'ils sont en position dominante. Cette pratique leur permet de tuer la concurrence sur un marché en transformant des consommateurs qui payent, en utilisateurs qui ne payent pas. Une fois la concurrence disparue, ils effectuent la transformation inverse, d'utilisateurs à consommateurs.
 
 Sous couvert de proposer gratuitement des services en échange des données des utilisateurs, Google réalise une réelle guerre économique afin de conserver son hégémonie sur le marché numérique.
 
