@@ -14,7 +14,7 @@ Voici ce que vos données vous permettent de vous offrir chez Google : un stocka
 
 ## Une stratégie bien huilée
 
-Après avoir laisser ses utilisateurs stocker gratuitement des dizaines de Go de photos sur ses serveurs, Google mets fin à sa générosité et [limite à 15 Go le volume de données stockées par utilisateur](https://blog.google/products/photos/storage-policy-update).
+Après avoir laissé ses utilisateurs stocker gratuitement des dizaines de Go de photos sur ses serveurs, Google mets fin à sa générosité et [limite à 15 Go le volume de données stockées par utilisateur](https://blog.google/products/photos/storage-policy-update).
 
 Qu'arrivera-t-il alors aux données excédentaires ? Google a précisé qu'il se permettra de supprimer tout surplus sous deux ans.
 
