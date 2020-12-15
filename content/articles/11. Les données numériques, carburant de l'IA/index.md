@@ -2,7 +2,7 @@
 title: "Les données numériques, carburant de l'IA."
 date: 2020-12-15
 author: Louis Chemineau
-draft: false
+draft: true
 tags:
     - Intelligence artificielle
     - Données
