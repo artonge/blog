@@ -1,8 +1,8 @@
 ---
 title: "Les données numériques, carburant de l'IA."
-date: 2020-12-08
+date: 2020-12-15
 author: Louis Chemineau
-draft: true
+draft: false
 tags:
     - Intelligence artificielle
     - Données
@@ -28,7 +28,7 @@ Par exemple, pour créer une reconnaissance faciale, Facebook a pu se baser sur 
 
 Un autre exemple est celui de Google, qui utilise les identifications de passages piétons, et autres panneaux routiers, réalisées par les internautes avec son service reCAPTCHA.
 
-{{< figure src="recaptcha.jpg" width="100%" caption="Google perfectionne son IA en s'appyuant sur les identifications des internautes.">}}
+{{< figure src="recaptcha.png" width="50%" caption="Google perfectionne son IA en s'appuyant sur les identifications des internautes.">}}
 
 L'analogie de données comme étant le nouvel or noir prend alors tout son sens, puisqu'elles sont réelement utilisées comme carburant des intelligences artificielles.
 
