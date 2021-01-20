@@ -66,8 +66,6 @@ En censurant massivement un mouvement, ces géants ont reconnu être responsable
 
 Toutefois, cela ne suffit pas à créer une migration des utilisateurs sur des plateformes plus respectueuses et ouvertes. Pourtant, en parallèle, un changement anodin des conditions d'utilisation de WhatsApp a déclenché une prise de conscience forte et bienvenue chez un grand nombre d'utilisateurs. Ceux-ci se redirigent alors vers des alternatives plus respectueuses de leur intimité, en particulier l'application Signal, acteur reconnu pour sa transparence et sa préoccupation de la vie privée de ses utilisateurs. Bien que Signal soit pour le moment fiable, et probablement plus que WhatsApp ne l'était il y a quelques années, jusqu'à quand le restera-t-il ? L'histoire de WhatsApp nous a montré qu'il suffirait d'un rachat pour transformer drastiquement la mission qui anime une organisation.
 
-
-
 ## Vers une ouverture des réseaux
 
 Comme indiqué plus haut, la question n'est pas de savoir comment réguler les géants du numériques sur leur droit à censurer, car ce n'est pas la problématique. La question ne se poserait pas si ce pouvoir n'était pas centralisé. De plus cela entraînerait, probablement, une nouvelle polarisation de l'opinion publique.
