@@ -2,7 +2,6 @@
 title: "Atteinte à la liberté d'expression ou droit de censure ?"
 date: 2021-01-14
 author: Louis Chemineau
-draft: true
 tags:
     - WhatsApp
     - Politique confidentialité
