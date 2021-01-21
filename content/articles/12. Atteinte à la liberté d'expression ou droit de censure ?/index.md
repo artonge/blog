@@ -13,7 +13,7 @@ tags:
     - Signal
     - Pouvoir
     - Décentralisation
-    - Effet de réseaux
+    - Effet de réseau
 ---
 
 ## Chronologie
