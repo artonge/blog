@@ -13,7 +13,7 @@ tags:
     - Signal
     - Pouvoir
     - Décentralisation
-    - Effet réseaux
+    - Effet de réseaux
 ---
 
 ## Chronologie
@@ -76,7 +76,7 @@ Une solution pourrait consister à obliger une interopérabilité de certains se
 - La communication entre utilisateurs de différents fournisseurs de services équivalents, grâce à l'utilisation de protocoles ouverts, voire standardisés.
 - Une migration simple de leurs utilisateurs et de leurs données vers la concurrence. Lorsque cela est impossible car les données trop complexes, permettre un auto-hébergement sous contrôle de l'utilisateur.
 
-Ces mesures casseraient l'effet réseau, et ouvrirait à la concurrence des marchés aujourd'hui verrouillés par quelques très grands acteurs. Cela est réalisable pour la plupart des services avec lesquels les utilisateurs crée des données tels que les réseaux sociaux, les messageries instantanées, et le stockage de fichiers.
+Ces mesures casseraient l'effet de réseau, et ouvrirait à la concurrence des marchés aujourd'hui verrouillés par quelques très grands acteurs. Cela est réalisable pour la plupart des services avec lesquels les utilisateurs crée des données tels que les réseaux sociaux, les messageries instantanées, et le stockage de fichiers.
 
 L'utilisation de la publicité ciblée comme modèle économique deviendrait alors probablement minoritaire.
 
