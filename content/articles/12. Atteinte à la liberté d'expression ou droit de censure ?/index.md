@@ -32,7 +32,7 @@ Suite aux violences ayant eu lieu au Capitole, Facebook prend la décision de bl
 
 Twitter prend la même décision que Facebook. Exclue, l'extrême-droite américaine se réfugie sur Parler, un réseau social ayant une politique de modération plus souple à leur égard.
 
-- [Google, Apple puis Amazon bloquent Parler de leur services](https://www.nytimes.com/2021/01/09/technology/apple-google-parler.html) - 08 Jan. - 09 Jan. - 11 Jan.
+- [Google, Apple puis Amazon bloquent Parler de leur service](https://www.nytimes.com/2021/01/09/technology/apple-google-parler.html) - 08 Jan. - 09 Jan. - 11 Jan.
 
 Google décide de retirer l'application Parler de son magasin d'applications mobiles, rapidement suivi par Apple. Parler est ensuite définitivement mis hors service après qu'Amazon lui a coupé son service d'hébergement informatique.
 
@@ -40,7 +40,7 @@ Google décide de retirer l'application Parler de son magasin d'applications mob
 
 Le service de paiement en ligne Stripe se joint aux groupes précédents en arrêtant d'offrir ses services pour la campagne de levée de fonds de Donald Trump.
 
-- [Les données des utilisateurs de Parler sont rendues publiques.](https://cybernews.com/news/70tb-of-parler-users-messages-videos-and-posts-leaked-by-security-researchers/) - 10 Jan.
+- [Les données des utilisateurs de Parler sont rendues publiques](https://cybernews.com/news/70tb-of-parler-users-messages-videos-and-posts-leaked-by-security-researchers/) - 10 Jan.
 
 Suite à la découverte d'une faille informatique, toutes les données des utilisateurs de Parler sont rendues publiques, incluant même les publications supprimées. C'est au total 70 TB de données qui sont maintenant accessibles.
 
@@ -60,21 +60,21 @@ D'autres encore s'interrogeront sur l'atteinte à la liberté d'expression de la
 
 La question du droit à la censure n'est pas la problématique. En effet, ces géants sont des entreprises privées et sont donc en droit de modérer à leur convenance les contenus publiés sur leurs réseaux. La problématique réside en réalité dans le pouvoir qui leur a été progressivement attribué sur les 15 dernières années. En enfermant notre expression sur un nombre restreint de plateformes, nous leur avons donné le pouvoir de réduire au silence numérique une personne ou un groupe de personne, et d'interdire certains sujets de discussion. C'est un pouvoir qui n'aurait jamais dû se retrouver entre les mains de quelques acteurs, et qui devrait être aujourd'hui redistribué au plus grand nombre, jusqu'à l'échelle de l'individu.
 
-En agissant de la sorte, ces entreprises ont montré à quel point leur pouvoir était grand, et jusqu'où elles pouvaient aller. Il est maintenant clair que toute opposition à leurs idées politiques est susceptible d'être censurée. Autrefois haut lieu d'organisation du contre-pouvoir, lors des Printemps arabes par exemple, ces plateformes ne peuvent plus être considérées comme des options viables pour l'organisation de mouvements politiques. Qu'arrivera-t-il lorsque des militants écologistes se battront avec vigueur pour réduire l'impact du numérique sur notre environment ? Qu'arrivera-t-il lorsque les enseignants remettront en question l'utilisation de matériel informatique pour enseigner ? Qu'arrivera-t-il lorsqu'une entreprise concurrente souhaitera utiliser ces plateformes incontournables pour sa communication ? Qu'arrivera-t-il lorsqu'il sera proposé de taxer plus fortement ces géants ? Toutes ces voix seront-elles réduites au silence ?
+En agissant de la sorte, ces entreprises ont montré à quel point leur pouvoir était grand, et jusqu'où elles pouvaient aller. Il est maintenant clair que toute opposition à leurs idées politiques est susceptible d'être censurée. Autrefois haut lieu d'organisation du contre-pouvoir, lors des Printemps arabes par exemple, ces plateformes ne peuvent plus être considérées comme des options viables pour l'organisation de mouvements politiques. Qu'arrivera-t-il lorsque des militants écologistes se battront avec vigueur pour réduire l'impact du numérique sur notre environnement ? Qu'arrivera-t-il lorsque les enseignants remettront en question l'utilisation de matériel informatique pour enseigner ? Qu'arrivera-t-il lorsqu'une entreprise concurrente souhaitera utiliser ces plateformes incontournables pour sa communication ? Qu'arrivera-t-il lorsqu'il sera proposé de taxer plus fortement ces géants ? Toutes ces voix seront-elles réduites au silence ?
 
-En censurant massivement un mouvement, ces géants ont reconnu être responsables et acteurs des contenus publiés sur leurs réseaux. Ce ne sont plus de simples plateformes d'expression, mais des régies de communications ayant une ligne éditorial bien définie.
+En censurant massivement un mouvement, ces géants ont reconnu être responsables et acteurs des contenus publiés sur leurs réseaux. Ce ne sont plus de simples plateformes d'expression, mais des régies de communications ayant une ligne éditoriale bien définie.
 
 Toutefois, cela ne suffit pas à créer une migration des utilisateurs sur des plateformes plus respectueuses et ouvertes. Pourtant, en parallèle, un changement anodin des conditions d'utilisation de WhatsApp a déclenché une prise de conscience forte et bienvenue chez un grand nombre d'utilisateurs. Ceux-ci se redirigent alors vers des alternatives plus respectueuses de leur intimité, en particulier l'application Signal, acteur reconnu pour sa transparence et sa préoccupation de la vie privée de ses utilisateurs. Bien que Signal soit pour le moment fiable, et probablement plus que WhatsApp ne l'était il y a quelques années, jusqu'à quand le restera-t-il ? L'histoire de WhatsApp nous a montré qu'il suffirait d'un rachat pour transformer drastiquement la mission qui anime une organisation.
 
 ## Vers une ouverture des réseaux
 
-Comme indiqué plus haut, la question n'est pas de savoir comment réguler les géants du numériques sur leur droit à censurer, car ce n'est pas la problématique. La question ne se poserait pas si ce pouvoir n'était pas centralisé. De plus cela entraînerait, probablement, une nouvelle polarisation de l'opinion publique.
+Comme indiqué plus haut, la question n'est pas de savoir comment réguler les géants du numérique sur leur droit à censurer, car ce n'est pas la problématique. La question ne se poserait pas si ce pouvoir n'était pas centralisé. De plus cela entraînerait, probablement, une nouvelle polarisation de l'opinion publique.
 
 Une solution pourrait consister à obliger une interopérabilité de certains services numériques. Au même titre que pour les mails par exemple, les différents fournisseurs de services devraient permettre à leurs utilisateurs:
 
-- L'accès aux données via des applications tiers, et cela sans condition anti-concurrentielle.
+- L'accès aux données via des applications tierces, et cela sans condition anti-concurrentielle.
 - La communication entre utilisateurs de différents fournisseurs de services équivalents, grâce à l'utilisation de protocoles ouverts, voire standardisés.
-- Une migration simple de leurs utilisateurs et de leurs données vers la concurrence. Lorsque cela est impossible car les données trop complexes, permettre un auto-hébergement sous contrôle de l'utilisateur.
+- Une migration simple de leurs utilisateurs et de leurs données vers la concurrence. Lorsque cela est impossible, car les données trop complexes, permettre un auto-hébergement sous contrôle de l'utilisateur.
 
 Ces mesures casseraient l'effet de réseau, et ouvrirait à la concurrence des marchés aujourd'hui verrouillés par quelques très grands acteurs. Cela est réalisable pour la plupart des services avec lesquels les utilisateurs crée des données tels que les réseaux sociaux, les messageries instantanées, et le stockage de fichiers.
 
