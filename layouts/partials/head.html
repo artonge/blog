@@ -20,7 +20,7 @@
 
 	{{ hugo.Generator }}
 
-	{{ $style := resources.Get "scss/commons.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
+	{{ $style := resources.Get "scss/commons.scss" | resources.ToCSS | postCSS | resources.Minify | resources.Fingerprint }}
 	<link rel="stylesheet" href="{{ $style.Permalink }}"/>
 
 	{{ $style := resources.Get "scss/blog.scss" | resources.ToCSS | resources.Minify | resources.Fingerprint }}
