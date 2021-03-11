@@ -1,0 +1,8 @@
+{
+  "name": "flap-hugo-theme",
+  "version": "1.0.0",
+  "dependencies": {
+    "@fullhuman/postcss-purgecss": "^4.0.0",
+    "postcss-cli": "^8.3.1"
+  }
+}
