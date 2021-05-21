@@ -11,5 +11,5 @@ deploy:
     - apk add rclone hugo git
     - npm install
     - hugo --gc --minify --enableGitInfo
-    - rclone delete --config "$RCLONE_CONFIG" scaleway:blog.flap.cloud
-    - rclone sync --verbose --config "$RCLONE_CONFIG" ./public  scaleway:blog.flap.cloud
+    - rclone delete --config "$RCLONE_CONFIG" scaleway:blog.flap
+    - rclone sync --verbose --config "$RCLONE_CONFIG" ./public  scaleway:blog.flap
