@@ -4,7 +4,6 @@ variables:
 deploy:
   image:
     name: node:alpine
-    entrypoint: [sh]
   variables:
     HUGO_ENV: production
   only: [master]
