@@ -2,13 +2,14 @@ variables:
   GIT_SUBMODULE_STRATEGY: recursive
 
 deploy:
-  image: node
+  image:
+    name: node:alpine
+    entrypoint: sh
   variables:
     HUGO_ENV: production
   only: [master]
   script:
-    - apt update
-    - apt install -y rclone hugo
+    - apk rclone hugo
     - npm install
     - hugo --gc --minify --enableGitInfo
     - rclone delete --config "$RCLONE_CONFIG" scaleway:blog.flap.cloud
