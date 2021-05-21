@@ -8,7 +8,7 @@ deploy:
     HUGO_ENV: production
   only: [master]
   script:
-    - apk rclone hugo
+    - apk add rclone hugo
     - npm install
     - hugo --gc --minify --enableGitInfo
     - rclone delete --config "$RCLONE_CONFIG" scaleway:blog.flap.cloud
