@@ -1,4 +1,4 @@
-baseURL = "https://blog.flap.cloud/"
+baseURL = "https://blog.chmn.me/"
 languageCode = "fr"
 DefaultContentLanguage = "fr"
 title = "Blog de FLAP"
@@ -16,15 +16,6 @@ copyright = "CC-BY-SA - FLAP - 2019-"
 	[[menu.main]]
 		identifier = "home"
 		name = "Accueil"
-		pre = "<img class='px-2' src='https://blog.flap.cloud/logo.png' alt='logo' class='w100 mw5-ns' width='70'  height='54'/>"
-		url = "https://www.flap.cloud"
+		pre = "<img class='px-2' src='https://blog.chmn.me/logo.png' alt='logo' class='w100 mw5-ns' width='70'  height='54'/>"
+		url = "https://blog.chmn.me"
 		weight = -110
-	[[menu.main]]
-		name = "Tarifs"
-		url = "https://www.flap.cloud/pricings"
-	[[menu.main]]
-		name = "Blog"
-		url = "https://blog.flap.cloud"
-	[[menu.main]]
-		name = "À propos"
-		url = "https://www.flap.cloud/about"
